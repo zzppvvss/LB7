@@ -1,0 +1,13 @@
+C:\Users\ripni\Desktop\lb7\bin\Debug\MyDB.mdf
+C:\Users\ripni\Desktop\lb7\bin\Debug\MyDB_log.ldf
+C:\Users\ripni\Desktop\lb7\bin\Debug\CS-LB7.exe.config
+C:\Users\ripni\Desktop\lb7\bin\Debug\CS-LB7.exe
+C:\Users\ripni\Desktop\lb7\bin\Debug\CS-LB7.pdb
+C:\Users\ripni\Desktop\lb7\obj\Debug\LB7.csproj.AssemblyReference.cache
+C:\Users\ripni\Desktop\lb7\obj\Debug\LB7.csproj.SuggestedBindingRedirects.cache
+C:\Users\ripni\Desktop\lb7\obj\Debug\LB7.FORMA.resources
+C:\Users\ripni\Desktop\lb7\obj\Debug\CS_LB7.Properties.Resources.resources
+C:\Users\ripni\Desktop\lb7\obj\Debug\LB7.csproj.GenerateResource.cache
+C:\Users\ripni\Desktop\lb7\obj\Debug\LB7.csproj.CoreCompileInputs.cache
+C:\Users\ripni\Desktop\lb7\obj\Debug\CS-LB7.exe
+C:\Users\ripni\Desktop\lb7\obj\Debug\CS-LB7.pdb
